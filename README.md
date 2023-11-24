@@ -1,1 +1,1 @@
-# ArdRobot2022
+This project entails improving an already existing robot can perform simple point-to-point control in large industries that will help reduce industry problems, increase efficiency and maximize production cost. The robot was controlled with the aid of Arduino, a mircrocontroller
